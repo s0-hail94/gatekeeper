@@ -1,0 +1,17 @@
+.idea/
+db.sqlite3
+*__pycache__*
+.venv*
+.env
+venv*
+env*
+_staticfiles
+.vscode/
+_static/media
+secret/
+.gitlint
+keys/
+secret.json
+encryption_rsa_private_key
+encryption_rsa_public_key
+celerybeat-schedule
